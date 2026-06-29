@@ -4,68 +4,68 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 160,
+          "green": 23,
+          "blue": 23,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#A01717",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
+          "luminance": 0.08,
+          "luminancePercent": "8%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "contrastRatio": 7.99,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 81,
+          "green": 75,
+          "blue": 49,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#514B31",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.07,
+          "luminancePercent": "7%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "contrastRatio": 8.75,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 45,
+          "green": 104,
+          "blue": 255,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#2D68FF",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.18,
+          "luminancePercent": "18%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "contrastRatio": 4.63,
+          "wcagRating": "AA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 0,
+          "green": 0,
+          "blue": 0,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#000000",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0,
+          "luminancePercent": "0%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "contrastRatio": 21,
           "wcagRating": "AAA"
         }
       },
@@ -77,7 +77,7 @@
           "blue": 255,
           "alpha": 1
         },
-        "hex": "#FFFFFF",
+        "hex": "#ffffff",
         "accessibility": {
           "luminance": 1,
           "luminancePercent": "100%",
@@ -123,94 +123,94 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 160,
+          "green": 23,
+          "blue": 23,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#A01717",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.08,
+          "luminancePercent": "8%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "contrastRatio": 7.99,
+          "wcagRating": "AAA"
         }
       }
     ],
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'Arial', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'PT Sans Narrow', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://www.hmfr.ca/wp-content/uploads/2012/09/huronia-color-whitebg-logo.png",
     "logo_config": {
       "type": "url",
-      "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "variant": "dark",
+      "url": "https://www.hmfr.ca/wp-content/uploads/2012/09/huronia-color-whitebg-logo.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
+          "hex": "#ffffff",
+          "luminosity_percent": 100,
+          "count": 121
         },
         {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#fffdfd",
+          "luminosity_percent": 99,
+          "count": 8
         },
         {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#fdfdfd",
+          "luminosity_percent": 98,
+          "count": 6
         },
         {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
+          "hex": "#fcf6f7",
+          "luminosity_percent": 93,
           "count": 2
         },
         {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
+          "hex": "#fdfcfc",
+          "luminosity_percent": 98,
           "count": 2
         },
         {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
-        },
-        {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
+          "hex": "#bf2834",
+          "luminosity_percent": 13,
           "count": 1
         },
         {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
+          "hex": "#c12d35",
+          "luminosity_percent": 13,
+          "count": 1
+        },
+        {
+          "hex": "#be2833",
+          "luminosity_percent": 13,
+          "count": 1
+        },
+        {
+          "hex": "#bf2931",
+          "luminosity_percent": 13,
+          "count": 1
+        },
+        {
+          "hex": "#bf2731",
+          "luminosity_percent": 13,
           "count": 1
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
-      "is_light": false
+      "dominant_color": "#ffffff",
+      "avg_luminosity": 96.7,
+      "is_light": true
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://www.hmfr.ca/wp-content/uploads/2012/09/huronia-color-logomark.ico"
   }
 }
